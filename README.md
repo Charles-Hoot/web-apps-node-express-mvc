@@ -6,8 +6,8 @@
 
 ## Links
 
-- [Demo](https://denisecase.github.io/node-express-mvc/)
-- [Source](https://github.com/denisecase/node-express-mvc)
+- [Hosted Page](https://denisecase.github.io/node-express-mvc/)
+- [Repo](https://github.com/charles-hoot/web-apps-js-node-express-mvc)
 
 ## Dev Tools
 
